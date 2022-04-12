@@ -58,7 +58,7 @@
 {"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"}],
 "zhujiexi": "http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url=#https://jf.1080p.icu:3377/home/api?type=ys&uid=139706&key=cgjlntwxzAEMQTUVWX&url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#http://ts.yjhan.com:8090/api/?key=Y4GefMCIQJz23mc06R&url=#https://json.hfyrw.com/mao.go?url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=#https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url=#https://json.pangujiexi.com:12345/json.php?url=#http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url=#https://a.dxzj88.com/jianghujx/?url=",
 "beiyongjiexi": "https://nbjx.vip/?url=#http://api.diliktv.xyz/vip/jx.php?url=",
-"dianshizhibo": "https://ghproxy.fsofso.com/https://github.com/SunnyOmega/BLG-player/blob/main/bdzb.txt",
+"dianshizhibo": "http://www.mikkk.xyz/bblive.txt",
 "caijizhan": "https://koko.renrenmi.cc/api.php",
 "tiyuzhibo": "https://m.zhibo8.net",
 "reci": "https://v.sogou.com",
