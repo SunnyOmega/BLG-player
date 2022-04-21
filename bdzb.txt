@@ -12,7 +12,7 @@ CCTV5+,http://111.40.196.25/PLTV/88888888/224/3221225767/index.m3u8?$移动高�
 中央10台,http://117.148.179.174/PLTV/88888888/224/3221231666/index.m3u8?$咪咕移动1080P#http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8?$移动蓝光1080P#http://39.135.212.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/cctv-10/1.m3u8?$移动超清1080P
 中央11台,http://39.135.212.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/cctv-11/1.m3u8?$移动超清1080P#http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8?$移动蓝光1080P#http://117.148.179.165/PLTV/88888888/224/3221231711/index.m3u8?$咪咕移动1080P#http://39.135.138.59:18890/TVOD/88888910/224/3221225628/index.m3u8?$移动超清1080P#http://iptv.tvfix.org/hls/cctv11hd.m3u8?$全网超清1080P
 中央12台,http://39.134.65.162/PLTV/88888888/224/3221225669/index.m3u8?$移动蓝光1080P#http://111.20.106.13:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$移动超清1080P#http://39.135.212.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/cctv-12/1.m3u8?$移动超清1080P#http://117.148.179.150:80/PLTV/88888888/224/3221231660/1.m3u8?$咪咕移动1080P
-中央13台,http://39.135.32.5:6610/PLTV/77777777/224/3221225798/index.m3u8?$移动超清1080P#http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8?$移动蓝光1080P#http://iptv.tvfix.org/hls/cctv13hd.m3u8?$全网超清1080P#http://221.179.136.134:443/PLTV/88888888/224/3221226568/1.m3u8?$移动超清1080P#http://111.40.196.30/PLTV/88888888/224/3221225504/index.m3u8?$移动高清720P#http://39.135.212.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/cctv-13/1.m3u8?$移动超清1080P
+中央13台,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8?$移动蓝光1080P#http://iptv.tvfix.org/hls/cctv13hd.m3u8?$全网超清1080P#http://221.179.136.134:443/PLTV/88888888/224/3221226568/1.m3u8?$移动超清1080P#http://111.40.196.30/PLTV/88888888/224/3221225504/index.m3u8?$移动高清720P#http://39.135.212.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/cctv-13/1.m3u8?$移动超清1080P
 中央14台,http://111.20.41.242:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8?$移动超清1080P#http://iptv.tvfix.org/hls/cctv14hd.m3u8?$全网超清1080P#http://39.135.212.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/cctv-14/1.m3u8?$移动超清1080P#http://111.20.106.13:6610/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$移动超清1080P#http://117.148.179.183/PLTV/88888888/224/3221231648/index.m3u8?$咪咕移动1080P
 中央15台,http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8?$移动高清720P#http://39.135.212.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/cctv-15/1.m3u8?$移动超清1080P#http://117.148.179.169:80/PLTV/88888888/224/3221231693/index.m3u8?$咪咕移动1080P#http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8?$移动蓝光1080P
 中央16台,http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8?$移动蓝光1080P#http://iptv.tvfix.org/hls/cctv16hd.m3u8?$全网超清1080P#http://111.20.106.16:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$移动蓝光1080P
@@ -175,50 +175,6 @@ CETV-4,http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
 CETV-1,http://111.63.117.13:6060/030000001000/G_CETV-1/G_CETV-1.m3u8
 CETV-2,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
-##
-
-##央视2##
-CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
-CCTV2,http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
-CCTV3,http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
-CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
-CCTV6,http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
-CCTV7,http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
-CCTV8,http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
-CCTV9,http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
-CCTV10,http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
-CCTV11,http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
-CCTV12,http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
-CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-CCTV14,http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
-CCTV15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
-CCTV16,http://117.148.179.157/PLTV/88888888/224/3221233403/index.m3u8
-CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-CCTV-高尔夫网球,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
-CCTV-文化精品,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
-CCTV-电视指南,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
-CCTV-兵器科技,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
-CCTV-风云音乐,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
-CCTV-女性时尚,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
-CCTV-风云剧场,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
-CCTV-第一剧场,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
-CCTV-世界地理,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
-CCTV-风云足球,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
-CCTV-怀旧剧场,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
-CCTV-高尔夫网球 25fps,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
-CCTV-文化精品 25fps,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
-CCTV-电视指南 25fps,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
-CCTV-兵器科技 25fps,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
-CCTV-风云音乐 25fps,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
-CCTV-风云剧场 25fps,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
-CCTV-第一剧场 25fps,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
-CCTV-世界地理 25fps,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
-CCTV-风云足球 25fps,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
-CCTV-怀旧剧场 25fps,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
-CCTV-央视台球 25fps,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
-CCTV-央视台球 25FPS,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
 ##
 
 ##卫视##
